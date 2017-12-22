@@ -1,0 +1,20 @@
+TesteJava_Junit
+Pacote de Classes importantes para o teste com Junit (TutorialsPoint/junit)
+
+Classes importantes no Estudo do framework de teste para Java Junit. Apenas mais esclarecido que o método encontrado no TutorialsPoint/Junit lá a abordagem é mais completa
+
+Considerações sobre Testes com Java *** Autoria Própria. ***
+
+Primeiramente o Teste é Realizado visando a exata execução dos métodos dos quais uma classe é detentora. O Junit nada mais é do que uma biblioteca cujo o conteúdo é composto por classes e métodos que auxiliam o processo de apontar inconsistências no código,por isso muito importante na etapa de desenvolvimento,porém não substitui os olhos do programador e demais processos verificativos afim de achar "Falsos Positivos" e demais inconsistências possíveis.
+
+Pequeno Resumo de Funcionamento.
+
+1º Baixe o junit do Site oficial https://github.com/downloads/junit-team/junit/junit-4.10.jar ** Verificar as Versões 2º Instale ele no Ambiente do Eclipse (Botão direito na pasta do projeto - propriedades - javabuildpath) e inclua a biblioteca. 3º Verifique se o mesmo se encontra no pacote junto com as demais bibliotecas.
+
+O Junit é divido em três classes principais de Casos de Teste
+
+1º Assert 2º Result 3º Suit e Para todos eles um TestRunner
+
+O primeiro é o teste padrão para certificar apenas do adequado funcionamento. Os demais testes seguem essa ordem.
+
+*MAis classes e métodos estão disponíveis na documentação do que foram usadas nos exemplos. *Fique a vontade para sugerir alterações e propro mudanças. |(^^)|
